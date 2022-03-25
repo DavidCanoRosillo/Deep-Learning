@@ -2,7 +2,7 @@ Pix2pix image to image translation for paired images from the paper https://arxi
 ![Model architecture](https://github.com/DavidCanoRosillo/GANS/blob/master/pix2pix/auxiliar_images/pix2pix_architecture.jpeg)
 Results on segment images (Left is segment, middle is generated, right is real street):
 
-Results on gray images (Left is gray, middle is generated, right is real color image):
-![alt text](https://github.com/DavidCanoRosillo/GANS/tree/master/pix2pix/gray2color_images#:~:text=Screenshot%202022%2D03%2D24%20at%2010.31.07.png)
+Results on gray images (I also tried it on some gray images from google):
 ![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/pix2pix/gray2color_images/Screenshot%202022-03-24%20at%2010.35.23.png)
-![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/pix2pix/gray2color_images/Screenshot%202022-03-24%20at%2010.35.23.png)
+![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/pix2pix/gray2color_images/Screenshot%202022-03-24%20at%2010.31.07.png)
+![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/pix2pix/gray2color_images/Screenshot%202022-03-24%20at%2010.31.28.png)
