@@ -1,1 +1,2 @@
 Pix2pix image to image translation for paired images from the paper https://arxiv.org/abs/1611.07004. I trained the model on 2 datasets one is composed of black and white images and their color pair. The other dataset has segmented images of a street and the real image from which those segments where produced. The generator model is given as input the segments and generates a plausible street image corresponding to that segment.
+![Model architecture](https://github.com/DavidCanoRosillo/GANS/blob/master/pix2pix/auxiliar_images/pix2pix_architecture.jpeg)
