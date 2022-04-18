@@ -10,8 +10,8 @@ The objective is to turn a horse image to a zebra image while retaining pose inf
 ## Zebra -> Horse
 ![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/Screenshot%202022-04-18%20at%2012.03.44.png)
 ![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/Screenshot%202022-04-18%20at%2012.03.55.png)
-![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/Screenshot%202022-04-18%20at%2012.04.05.png)
-![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/Screenshot%202022-04-18%20at%2012.04.05.png)
+![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/Screenshot%202022-04-18%20at%2012.20.01.png)
+![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/Screenshot%202022-04-18%20at%2012.16.05.png)
 
 
 ## Abstract of the paper:
