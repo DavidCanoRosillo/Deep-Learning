@@ -1,17 +1,18 @@
 ## Unpaired image to image translation with CycleGan:
 The objective is to turn a horse image to a zebra image while retaining pose information. Here are some examples transforming horses to zebras and viceversa.
 
-## Horse -> Zebra
-![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/horse_result1.png)
-![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/horse_result1.png)
-![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/horse_result1.png)
-![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/horse_result1.png)
+## Horse -> Zebra
+![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/Screenshot%202022-04-18%20at%2012.03.07.png)
+![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/Screenshot%202022-04-18%20at%2012.03.35.png)
+![alt text]()
+![alt text]()
 
 ## Zebra -> Horse
-![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/zebra_result1.png)
-![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/zebra_result1.png)
-![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/zebra_result1.png)
-![alt text](https://github.com/DavidCanoRosillo/GANS/blob/master/CycleGan/results/zebra_result1.png)
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
+
 
 ## Abstract of the paper:
 
